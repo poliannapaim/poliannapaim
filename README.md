@@ -4,7 +4,7 @@
 
 <p>I am a UX/UI researcher and designer with a Master's degree in Human-Computer Interaction (PPGInf-UFPR, 2020-2022). Currently, I am learning web development using Laravel/PHP and React/JavaScript.</p>
 
-<p>these are other skills that I have:</p>
+<p>These are other skills that I have:</p>
 <ul>
   <li> Figma, Tailwind, Insomnia, Notion, HTML5, CSS3, Illustrator, Inkscape, Photoshop, GIMP, Lightroom, Darktable </li>
 </ul>
