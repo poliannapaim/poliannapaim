@@ -6,6 +6,6 @@
 
 <p>These are some other skills I possess:</p>
 <ul>
-  <li> Figma, Tailwind, Insomnia, Notion, HTML5, CSS3, Illustrator, Inkscape, Photoshop, GIMP, Lightroom, Darktable </li>
+  <li> Figma, Tailwind, Insomnia, Notion, HTML5, CSS3, Illustrator, Inkscape, Photoshop, GIMP, Lightroom, Darktable, Photography, Crochet and Embroidery </li>
 </ul>
 
